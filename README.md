@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/qr-component-for-mobile-375px-o2Z64Axjum)
+- Live Site URL: [GitHub](https://teenabobeena.github.io/qr-card-component/index.html)
 
 ## My process
 
